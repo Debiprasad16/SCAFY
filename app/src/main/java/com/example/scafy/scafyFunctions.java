@@ -11,9 +11,9 @@ public class scafyFunctions {
             string = "Good Morning Debeeprasad!";
         }else if(time >= 12 && time < 16){
             string = "Good Afternoon Debeeprasad!";
-        }else if(time >= 16 && time < 20){
+        }else if(time >= 16 && time < 21){
             string = "Good Evening Debeeprasad!";
-        }else if(time >= 20 && time < 22){
+        }else if(time >= 21 && time < 22){
             string = "Good Night Debeeprasad!";
         }else if(time >= 22 && time < 24){
             string = "Debeeprasad, It's too late. You need to Sleep.";
